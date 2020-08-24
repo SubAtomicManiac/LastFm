@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LastFM</string>
+    <string name="album_art">Displaying album art</string>
+</resources>

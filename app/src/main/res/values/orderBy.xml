@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="orderBy_array">
+        <item>Default</item>
+        <item>Track</item>
+        <item>Artist</item>
+        <item>Listeners</item>
+    </string-array>
+</resources>
